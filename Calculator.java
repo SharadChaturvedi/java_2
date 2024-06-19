@@ -28,10 +28,7 @@ public class Calculator
         }
 
 
-        System.out.println("The sum of two numbers are :" + sum);
-        System.out.println("The Sub of two numbers are :" + sub);
-       //System.out.println("The Div of two numbers are :" + Div);
-        System.out.println("The  Multiply of two numbers are :" + mul);
+        
 
         s.close();
         
